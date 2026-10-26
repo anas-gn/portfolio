@@ -135,12 +135,6 @@ French text lives in `app/content.ts`; English text is the `FR2EN` dictionary at
 Replace the two PDFs in `public/cv/` and keep the file names.
 </details>
 
-## ☁️ Deploy in 60 seconds
-
-1. Push this repo to GitHub
-2. Import it on [vercel.com/new](https://vercel.com/new)
-3. Click **Deploy** — that's the chequered flag 🏁
-
 ## 🙌 Credits
 
 - 3D helmet **"Battle Damaged Sci-fi Helmet"** by *theblueturtle_* — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
